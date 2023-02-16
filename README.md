@@ -10,7 +10,7 @@ For subsequent runs, `npm test`.
 
 ## Observations
 
-When importing from the root, it will import `botframework-directlinejs`, but not using it.
+When importing from the root, it will import `botframework-directlinejs`, but not using it. This produce almost the same build when compared to `import 'botframework-directlinejs'`.
 
 When importing from named exports, it will not import `botframework-directlinejs` at all.
 
