@@ -1,0 +1,12 @@
+{
+  "name": "component",
+  "version": "0.0.0-0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "William Wong (https://github.com/compulim)",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "botframework-directlinejs": "^0.15.1"
+  }
+}
